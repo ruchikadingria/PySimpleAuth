@@ -18,11 +18,11 @@ To get `PySimpleAuth` up and running on your local machine, follow these steps:
 + SQLite3 Database: Manages user data securely and efficiently.
 + Input Validation: Ensures that all fields are filled before submission.
 
-## About the Owner
+# About the Owner
 Hello! I’m Ruchika Dingria, the creator and maintainer of this project. I am passionate about Python and enjoy exploring its versatility and power in various applications. With this project, I aim to support beginner-level Python developers by providing a practical example of PySimpleAuth.
 
 Thank you for checking out my project!
 
-## If you find this project useful, please consider giving it a star! :star:
+# If you find this project useful, please consider giving it a star! :star:
 
 Your support is greatly appreciated!
